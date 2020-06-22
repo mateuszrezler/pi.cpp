@@ -13,11 +13,13 @@ int main()
 
     if ((login == "admin") && (haslo == "szarlotka"))
     {
-        cout << "Udalo sie zalogowac!";
+        cout << "Udalo sie zalogowac!" << endl;
     }
     else
     {
-        cout << "Nie udalo sie zalogowac!";
+        cout << "Nie udalo sie zalogowac!" << endl;
     }
+
     return 0;
 }
+

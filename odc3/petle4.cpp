@@ -2,7 +2,8 @@
 
 using namespace std;
 
-string imie; int liczba;
+string imie;
+int liczba;
 
 int main()
 {
@@ -11,10 +12,11 @@ int main()
     cout << "Podaj dodatnia liczbe calkowita: ";
     cin >> liczba;
 
-    for (int i=1; i<=liczba; i++)
+    for (int i = 1; i <= liczba; i++)
     {
         cout << i << ". " << imie << endl;
     }
 
     return 0;
 }
+

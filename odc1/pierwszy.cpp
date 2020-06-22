@@ -6,17 +6,16 @@ int uczniowie, cukierki, x, y;
 
 int main()
 {
-    cout << "Ilu uczniow jest w Twojej klasie: ";
+    cout << "Ilu uczniow jest w Twojej klasie? ";
     cin >> uczniowie;
-
-    cout << "Ile cukierkow kupila mama: ";
+    cout << "Ile cukierkow kupila mama? ";
     cin >> cukierki;
 
     x = cukierki/(uczniowie-1);
-    cout << "Cukierkow dla kazdego ucznia: " << x;
-
+    cout << "Cukierkow dla kazdego ucznia: " << x << ".\n";
     y = cukierki-x*(uczniowie-1);
-    cout << endl << "Dla Jasia na wieczor: " << y;
+    cout << "Dla Jasia na wieczor: " << y << ".\n";
 
     return 0;
 }
+

@@ -6,17 +6,19 @@ string PIN;
 
 int main()
 {
-    cout << "Witaj w naszym banku!" << endl;
+    cout << "Witaj w naszym banku!\n";
     cout << "Podaj numer PIN: ";
     cin >> PIN;
 
     if (PIN == "1729")
     {
-        cout << "Poprawny PIN";
+        cout << "Poprawny PIN.\n";
     }
     else
     {
-        cout << "Niepoprawny PIN";
+        cout << "Niepoprawny PIN.\n";
     }
+
     return 0;
 }
+
