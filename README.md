@@ -8,4 +8,5 @@ Uczę się C++ z kanałem Pasja informatyki
     * [odc. 2: Instrukcja warunkowa if. Decyzje w programie](https://www.youtube.com/watch?v=hXLbgSh1Wo0)
     * [odc. 3: Pętla: for, while, do..while. Pętle wyjaśnione](https://www.youtube.com/watch?v=y6GOYVTVvqo)
     * [odc. 4: Liczby losowe (pseudolosowe)](https://www.youtube.com/watch?v=QapjTCGV7GM)
+    * [odc. 5: Tablice, ciąg Fibonacciego](https://www.youtube.com/watch?v=Rt1HnMdzINo)
 
